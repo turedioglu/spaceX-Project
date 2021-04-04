@@ -1,4 +1,4 @@
-# appNation_project
+# appnation_project
 
 A new Flutter project.
 
